@@ -1,7 +1,7 @@
 console.log('JS OK');
 
 //* creo la lista della spesa
-const items = ['Pane', 'Birra', 'Lievito', 'Guaciale', 'Uova'];
+const items = ['Pane', 'Birra', 'Lievito', 'Guaciale', 'Uova', 'Cipolla', 'Cotolette', 'Piadine', 'Noci'];
 console.log (items);  // mostro in console
 
 //* creo una variabile per l'id della lista
